@@ -7,7 +7,7 @@ export default function Logo() {
       viewBox="0 0 172 26"
       width="172"
       height="26"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns="#"  /* add any image link if want */
     >
       <title id="conf-logo-title-header">
         Next.js Conf logo using a newly designed Next.js logo.
