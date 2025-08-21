@@ -9,7 +9,7 @@ export default function Logo() {
       height="26"
       xmlns="#"  /* add any image link if want */
     >
-      {/* <title id="conf-logo-title-header">
+      <title id="conf-logo-title-header">
         Next.js Conf logo using a newly designed Next.js logo.
       </title>
       <path
@@ -66,6 +66,6 @@ export default function Logo() {
         y1="0.65"
         y2="0.65"
       ></line>
-    </svg> */}
+    </svg> 
   );
 }
