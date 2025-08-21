@@ -15,7 +15,7 @@ class MyDocument extends Document {
             property="og:description"
             content="See pictures from Next.js Conf and the After Party."
           />
-          <meta property="og:title" content="Next.js Conf 2022 Pictures" />
+          <meta property="og:title" content="Arslaan Gallery Next.js" />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:title" content="Next.js Conf 2022 Pictures" />
           <meta
