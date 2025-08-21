@@ -30,7 +30,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
   return (
     <>
       <Head>
-        <title>Next.js Conf 2022 Photos</title>
+        <title>Arslaan Gallery Next.js</title>
         <meta
           property="og:image"
           content="https://nextjsconf-pics.vercel.app/og-image.png"
@@ -102,32 +102,32 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        Thank you to{" "}
+        Thank you {" "}
         <a
-          href="https://edelsonphotography.com/"
+          href="https://www.instagram.com/sayyed_arslaaaaan/"     /* so add any link or herf like insta  */
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Josh Edelson
+          All Copyright reserved ©
         </a>
-        ,{" "}
+         {" "}
         <a
-          href="https://www.newrevmedia.com/"
+          href="https://www.instagram.com/sayyed_arslaaaaan/"    /* so add any link or herf like insta  */
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Jenny Morgan
+          Sayyed 
         </a>
-        , and{" "}
+         {" "}
         <a
-          href="https://www.garysextonphotography.com/"
+          href="https://www.instagram.com/sayyed_arslaaaaan/"    /* so add any link or herf like insta  */
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Gary Sexton
+          Arslaan
         </a>{" "}
         for the pictures.
       </footer>
