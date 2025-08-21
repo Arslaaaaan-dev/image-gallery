@@ -71,7 +71,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               rel="noreferrer"
             >
               Clone and Deploy
-            </a> */}    //this is a comment 
+            </a> */}    
           </div>
           {images.map(({ id, public_id, format, blurDataUrl }) => (
             <Link
